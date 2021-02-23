@@ -1,7 +1,4 @@
 
-// password: 12345678Az
-// Connection string: mongodb+srv://saleh:<password>@cluster0.pespt.mongodb.net/<dbname>?retryWrites=true&w=majority
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
